@@ -1,4 +1,3 @@
-### 26 / 10 / 2016
 ### Tony Staunton
 ### Tuples
 
