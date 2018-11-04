@@ -1,4 +1,4 @@
-### 16 / 11 / 2016
+
 ### Tony Staunton
 ### Storing and reading user data
 
